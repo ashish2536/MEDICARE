@@ -1,0 +1,8 @@
+@media(max-width : 895px){
+    nav{
+        display: none;
+    }
+    #checkbtn{
+        display: block;
+    }
+}
